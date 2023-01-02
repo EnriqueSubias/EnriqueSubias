@@ -5,8 +5,8 @@
 
 [
 ![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquesubias&show_icons=true)
-](https://github.com/EnriqueSubias/EnriqueSubias)
+](https://github.com/EnriqueSubias)
 
 [
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquesubias&layout=compact&langs_count=20)
-](https://github.com/EnriqueSubias/EnriqueSubias)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquesubias&layout=compact&langs_count=10)
+](https://github.com/EnriqueSubias)
