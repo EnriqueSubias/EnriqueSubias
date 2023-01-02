@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Frontend Development with React
 - 📫 Find my socials in my website [enriquesubias.com](https://enriquesubias.com)
 
-[![Enrique's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EnriqueSubias&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Enrique's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=EnriqueSubias&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
+![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquesubias&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueSubias&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquesubias&layout=compact&langs_count=20)
